@@ -10,16 +10,21 @@ Successfully measure the velocity, width, depth, and discharge of the River Dart
 
 ## Data collection methods
 
-We use a velocity meter to measure the river's velocity in the middle, by the left bank, and by the right bank. We would then find the average of these results to be more accurate. We will then measure the width of the river with a measuring tape. We can measure it in 5 different places at 1-metre intervals to get a more accurate result. We can then measure the depth using metre sticks along the river's bed. We can then use the depth, width and velocity to calculate the river discharge. We would do this at each site to find whether our hypothesis was correct.
+We will use a velocity meter to measure the river's velocity in the middle, by the left bank, and by the right bank. We would then find the average of these results to be more accurate. We will then measure the width of the river with a measuring tape. We can measure it in 5 different places at 1-metre intervals to get a more accurate result. We can then measure the depth using metre sticks along the river's bed. We can then use the depth, width and velocity to calculate the river discharge. We would do this at each site to find whether our hypothesis was correct.
 
 ## Health and Safety
 
-To ensure that no accidents occur during the investigation, everyone will be required to wear boots to prevent people from slipping. In addition, when using the velocity meter, the person in charge of holding it will ensure the propellers do not cut anyone.
+To ensure that no accidents occur during the investigation, everyone will be required to wear welly boots to prevent people from slipping. In addition, when using the velocity meter, the person in charge of holding it will ensure the propellers do not cut anyone.
 
 ## Location
+
+### Choosing a Location
+
 When choosing a river, it is essential to remember the following points.
 
 Places where the river is on private land cannot be easily accessed. Furthermore, it is impossible to access the river if it is behind a fence. Lastly,  the river must not be too deep or too fast to stand in any place that can be accessed. These criteria mean that our potential sites are limited to public places such as parks, or places where it is possible to access the river close to the road, such as the River Dart Country Park and the Newbridge Car Park, respectively.
+
+### Locations Chosen
 
 We will measure at the following sites:
 
@@ -28,6 +33,12 @@ We will measure at the following sites:
 3. River Dart Country Park
 
 The reason for choosing these locations is that they all fit the criteria above.
+
+Dartmeet is a popular tourist location where the East and West Dart meet.
+
+Newbridge Car Park is a carpark on the side of a road by a bridge over the Dart.
+
+The River Dart Country Park is a park that is popular with families as children can quite safely play in the river.
 
 The sites are not very far apart; however, they are all a few miles from each other along the river, which should be far enough to prove or disprove the hypothesis.
 
@@ -50,7 +61,7 @@ Dartmeet to Newbridge Car Park:
 Newbridge Car Park to the River Dart Country Park:
 ![Newbridge Car Park to River Dart Country Park](Images/Newbridge-car-park-to-river-dart-country-park.png)
 
-We will move between the sites by car or bus. This way the travel can be quick and safe.
+We will move between the sites by car or bus. This way the travel can be quick and safe.f
 
 ## Data
 
