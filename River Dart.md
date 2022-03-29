@@ -1,12 +1,28 @@
 # River Dart Investigation
 
+---
+
+
+- [River Dart Investigation](#river-dart-investigation)
+  - [Question](#question)
+  - [Objective of the study](#objective-of-the-study)
+  - [Data collection methods](#data-collection-methods)
+  - [Health and Safety](#health-and-safety)
+  - [Location](#location)
+    - [Choosing a Location](#choosing-a-location)
+    - [Locations Chosen](#locations-chosen)
+  - [Data](#data)
+  - [Analysis of Data](#analysis-of-data)
+
+---
+
 ## Question
 
-Does the velocity, width, depth and discharge decrease as the river moves downstream?
+Does the velocity, width, depth and discharge decrease as the river flows downstream?
 
 ## Objective of the study
 
-Successfully measure the velocity, width, depth, and discharge of the River Dart in 3 different places, Newbridge Car Park, the River Dart country park, and Dartmeet.
+Successfully measure the velocity, width, depth, and discharge of the River Dart in 3 different places, Newbridge Car Park, the River Dart Country Park, and Dartmeet.
 
 ## Data collection methods
 
@@ -50,18 +66,18 @@ Image of the site at Dartmeet:
 ![Dartmeet Streetview](Images/dartmeet-streetview.png)
 
 Image of the site at Newbridge Car Park:
-![Newbridge Car Park Streetview](Images/Newbridge-carpark-streetview.png)
+![Newbridge Car Park Streetview](Images/newbridge-car-park-streetview.png)
 
 Image of the site at the River Dart Country Park:
 ![River Dart Country Park Streetview](Images/river-dart-country-park-streetview.png)
 
 Dartmeet to Newbridge Car Park:
-![Dartmeet to Newbridge Car Park](Images/dartmeet-to-Newbridge-car-park.png)
+![Dartmeet to Newbridge Car Park](Images/dartmeet-to-newbridge-car-park.png)
 
 Newbridge Car Park to the River Dart Country Park:
-![Newbridge Car Park to River Dart Country Park](Images/Newbridge-car-park-to-river-dart-country-park.png)
+![Newbridge Car Park to River Dart Country Park](Images/newbridge-car-park-to-river-dart-country-park.png)
 
-We will move between the sites by car or bus. This way the travel can be quick and safe.f
+We will move between the sites by car or bus. This way the travel can be quick and safe.
 
 ## Data
 
