@@ -12,7 +12,12 @@ Successfully measure the velocity, width, depth, and discharge of the River Dart
 
 We use a velocity meter to measure the velocity of the river in the middle, by the left bank, and by the right bank. We would then find the average of these results to be more accurate. We will then measure the width of the river with a measuring tape. We can measure it in 5 different places with 1 metre intervals to get a more accurate result. We can then measure the depth using metre sticks along the bed of the river. We can then use the depth, width and velocity to calculate the river discharge. We would do this at each site, to find whether our hypothesis was correct.
 
+# Health and Safety
+
+To ensure that no accidents occur during the investigation, everyone will be required to wear boots, which will prevent people slipping. When using the velocity meter the person in charge of holding it will make sure the propellers do not cut anyone.
+
 ## Location
+
 I chose the River Dart because there are multiple locations where measuring can be done all close enough so that the whole study can be completed in half a day.
 
 We will measure at the following sites:
@@ -42,6 +47,8 @@ Dartmeet to Newbridge Carpark:
 
 Newbridge Carpark to the River Dart Country Park:
 ![Newbridge carpark to River Dart Country Park](Images/newbridge-car-park-to-river-dart-country-park.png)
+
+We will move between the sites by car or bus. This way the travel can be quick and safe.
 
 ## Data
 
