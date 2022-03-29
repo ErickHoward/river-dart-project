@@ -6,7 +6,7 @@ Does the velocity, width, depth and discharge decrease as the river moves downst
 
 ## Objectives of the study
 
-Successfully measure the velocity, width, depth, and discharge of the River Dart in 3 different places, at Newbridge Car Park, the River Dart country park, and at Dartmeet.
+Successfully measure the velocity, width, depth, and discharge of the River Dart in 3 different places, at Newbridge carpark, the River Dart country park, and at Dartmeet.
 
 ## Data collection methods
 
@@ -24,17 +24,24 @@ We cannot access the river at any place where it is on private land. We can also
 
 The sites are not very far apart however they are all a few miles from each other along the river which should be far enough to prove or disprove the hypothesis.
 
-The distance from the River Dart Country Park to Newbridge Carpark is around 3.55 miles. The distance from Dartmeet to Newbridge Car Park is 4.47 miles. 
+The distance from the River Dart Country Park to Newbridge Carpark is around 3.55 miles. The distance from Dartmeet to Newbridge carpark is 4.47 miles.
 
 Here are some image of the sites and distances between them:
 
 Image of the site at Dartmeet:
+![Dartmeet Streetview](Images/dartmeet-streetview.png)
+
+Image of the site at Newbrige Carpark:
+![Newbridge Carpark Streetview](Images/newbridge-carpark-streetview.png)
+
+Image of the site at the River Dart Country Park:
+![River Dart Country Park Streetview](Images/river-dart-country-park-streetview.png)
 
 Dartmeet to Newbridge Carpark:
 ![Dartmeet to Newbridge Carpark](Images/dartmeet-to-newbridge-car-park.png)
 
 Newbridge Carpark to the River Dart Country Park:
-![Newbridge Car Park to River Dart Country Park](Images/newbridge-car-park-to-river-dart-country-park.png)
+![Newbridge carpark to River Dart Country Park](Images/newbridge-car-park-to-river-dart-country-park.png)
 
 ## Data
 
